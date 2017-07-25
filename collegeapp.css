@@ -1,0 +1,83 @@
+body {
+    background-color: yellow;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+body {
+    background-image: url("http://media.istockphoto.com/photos/college-students-getting-help-from-professor-picture-id803309202?k=6&m=803309202&s=612x612&w=0&h=uVowyS6hZWaQsemdgS04JChkrrxFAcxjmvXQB_CZCMY=")
+}
+
+
+
+div:nth-of-type(1) {
+  width: 48%;
+  float: left;
+}
+
+div:nth-of-type(2) {
+  width: 48%;
+  float: right;
+}
+
+.aboutbckcolor {
+  display: inline;
+  background: black;
+  color: white;
+
+}
+
+.founders {
+  display: inline;
+  background: black;
+  color: white;
+  
+}
+
+
+.logoutLblPos{
+
+   position:fixed;
+   right:10px;
+   top:5px;
+}
+body {
+  width: 500px;
+  margin: 0 auto;
+}
+
+p {
+  background: black;
+  border: black;
+  padding: 10px;
+  margin: 10px;
+}
+
+span {
+  background: red;
+  border: 1px solid black;
+}
+
